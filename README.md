@@ -3,6 +3,6 @@
 
 
 ### Technology Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,ts,java,py,django,c,mysql,postgres,mongodb,docker,figma,discord)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vuejs,ts,java,py,django,c,mysql,postgres,mongodb,docker,figma,minizinc,discord)](https://skillicons.dev) <br>
 
 ### Socials
