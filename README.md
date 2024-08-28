@@ -18,20 +18,15 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepad%2B%2B&logoColor=white)
 <br><br>
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 <br><br>
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![SpigotMC](https://img.shields.io/badge/-SpigotMC-008080?style=flat-square&logo=spigotmc&logoColor=white)
-<br><br>
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Steam Deck](https://img.shields.io/badge/-Steam_Deck-000000?style=flat-square&logo=steamdeck&logoColor=white)
 <br><br>
 ![IDA Pro](https://img.shields.io/badge/-IDA_Pro-000000?style=flat-square)
 ![Cheat Engine](https://img.shields.io/badge/-Cheat_Engine-FF5733?style=flat-square)
@@ -39,5 +34,3 @@
 ![DnsSpy](https://img.shields.io/badge/-DnsSpy-0078D4?style=flat-square)
 <br><br>
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
-![Avast Secure Browser](https://img.shields.io/badge/-Avast_Secure_Browser-4A8BCC?style=flat-square&logo=avast&logoColor=white)
-![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white)
