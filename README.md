@@ -7,7 +7,7 @@
 
 ## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
 
-![](https://github-profile-trophy.vercel.app/?username=TheRealJoelmatic&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hychion&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # 💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
 
