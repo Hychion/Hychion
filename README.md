@@ -18,6 +18,7 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepad%2B%2B&logoColor=white)
 <br><br>
+![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
