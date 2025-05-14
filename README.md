@@ -1,11 +1,4 @@
 
-## Link
-Root-Me : "https://www.root-me.org/Hychion_"<br/>
-Tryhackme : https://tryhackme.com/p/Bl4ckCh4pl41n </br>
-
-
-
-
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀:
 ![](https://github-readme-stats.vercel.app/api?username=Hychion&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hychion&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
@@ -37,4 +30,26 @@ Tryhackme : https://tryhackme.com/p/Bl4ckCh4pl41n </br>
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 <br><br>
+
+<h3 align="center">Connect with me</h3>
+
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
+
+
+<p align="center">
+<a href="https://www.root-me.org/Hychion_?lang=fr#d134373d48c1cf00e8c5b23a6db5e658" target="blank">
+  <img align="center" src="https://pro.root-me.org/squelettes/images/RMP_logo_blanc.png" height="40" width="35" />
+</a>
+</p>
+<a href="https://tryhackme.com/p/Bl4ckCh4pl41n" target="hack">
+  <img align="center" src="https://repository-images.githubusercontent.com/518509014/f7450454-158c-45e0-8b38-0c0ae4d7394c"  height="40" width="35"/>
+</a>
+
+<p align="center">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+</p>
+
